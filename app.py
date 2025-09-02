@@ -49,7 +49,7 @@ class TikTokAnalyzer:
         url = "https://scraptik.p.rapidapi.com/user-posts"
         params = {
             "user_id": user_id,
-            "count": 1000,
+            "count": 20,
             "region": "GB"
         }
         
